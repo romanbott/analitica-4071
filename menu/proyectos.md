@@ -3,11 +3,6 @@ layout: page
 title: Proyectos
 ---
 
-En está página aparecen todos los proyectos de los parciales correspondientes. Para ver por qué los proyectos son relevantes visiten la página de [información]({{ site.baseurl }}/informacion)
+En está página aparecen todos los proyectos de los parciales correspondientes. Para ver por qué los proyectos son relevantes visiten la página de [información]({{ site.baseurl }}/menu/info.html)
 
-# Parcial 1
-
-No hay proyecto, sólo estos ejercicios: 
-
-*   [Versión pdf]({{ site.baseurl }}/assets/proyectos/parcial1.pdf)
-*   [Entrada de blog]({{ site.baseurl }}/proyecto1)
+ $$\sum_i^n f(x)$$
