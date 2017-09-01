@@ -9,7 +9,7 @@ disqus:
   comments: false
   disqus_shortname: ''
 
- google-ID: 'UA-104611849-2'
+google-ID: 'UA-104611849-2'
 
 menu:
 - {name: 'Información', url: 'info.html'}
