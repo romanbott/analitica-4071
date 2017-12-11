@@ -24,7 +24,7 @@ $$X^2+tY^2=s$$
 está representado por la intersección de ambas superficies.
 <iframe scrolling="no" title="" src="{{site .baseurl}}/assets/interact.html" width="600px" height="600px" style="border:0px;"> </iframe>
 Entre las cosas que se pueden apreciar es cómo cambia el comportamiento de la sulución al cambiar de signo el parámetro $$t$$, es decir,
-como las soluciones pueden ser una elipse, una hipérbola, o dos rectas paralelas. También se puede observar el resultado de variar el par\ámetro $$s$$ y cómo para ciertas combinaciones de los parámetros, las dos superficies no se intersectan (es decir, ningún punto satisface la ecuación)
+como las soluciones pueden ser una elipse, una hipérbola, o dos rectas paralelas. También se puede observar el resultado de variar el parámetro $$s$$ y cómo para ciertas combinaciones de los parámetros, las dos superficies no se intersectan (es decir, ningún punto satisface la ecuación)
 
 En la segunda gráfica, la superficie roja es la gráfica de la función
 $$f(X,Y)=X^2+Y^2 +tXY$$
