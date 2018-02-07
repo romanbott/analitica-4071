@@ -9,13 +9,20 @@ image:
   creditlink: https://commons.wikimedia.org/w/index.php?curid=9914015
 ---
 
+## Referencia principal del curso
+
+* Pontriaguin, L. S. *El método de coordenadas*  URSS, 2011.
+
+Disponible en la biblioteca central de la UNAM, [Ficha](http://informatica.dgbiblio.unam.mx:8991/F/NRUS8NH5UGYY57RAVM5LFYDMSJ8NC5SFRMAEKFV5CQBV75R798-03369?func=full-set-set&set_number=012531&set_entry=000001&format=999)
+
+
 ## Bibliografía básica
 
 * Bracho, Javier. *Introducción analítica a las geometrías*. Fondo de Cultura Económica, 2009.
 
-* Wooton, William, F. Edwin, y Beckenbach F. *Geometría analítica moderna*. Publicaciones Cultural, 1985.
-
 * Preston, Gerald C., y Anthony R. Lovaglia. *Modern analytic geometry*. HarperCollins Publishers, 1971.
+
+* Wooton, William, F. Edwin, y Beckenbach F. *Geometría analítica moderna*. Publicaciones Cultural, 1985.
 
 ## Bibliografía adicional
 
